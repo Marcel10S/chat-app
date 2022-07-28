@@ -1,1 +1,1 @@
-# chat-app
+# This is my first project that includes symfony and Vue.js :)
